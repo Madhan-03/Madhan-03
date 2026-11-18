@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Madhan-03/Madhan-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Engineering student with practical experience in Full Stack Web Development and Business Intelligence through internships and project-based learning.
 
-Here are some ideas to get you started:
+- 💻 **Programming Languages:** Java, Python
+- 🌐 **Web Technologies:** HTML, CSS, JavaScript
+- 🗄️ **Databases:** MySQL, MongoDB
+- 📊 **Business Intelligence:** IBM Cognos Analytics
+- 🚀 **Areas of Interest:** Software Development, Full Stack Development, Database Management, and Business Intelligence.
+- 🛠️ **Projects:** IT Asset Management System, Analytics-Integrated Retail Solutions, and Content Management Platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing practical applications, solving technical problems, and continuously expanding my knowledge of software technologies.
+
+**Career Objective:** To build a career in Software Development and contribute to developing reliable, scalable, and impactful technology solutions.
+
+**Open to:** Professional Opportunities | Technical Collaboration | Software Development Projects
