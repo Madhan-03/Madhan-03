@@ -7,7 +7,7 @@ I am a Computer Science and Engineering student with practical experience in Ful
 - 🗄️ **Databases:** MySQL, MongoDB
 - 📊 **Business Intelligence:** IBM Cognos Analytics
 - 🚀 **Areas of Interest:** Software Development, Full Stack Development, Database Management, and Business Intelligence.
-- 🛠️ **Projects:** IT Asset Management System, Analytics-Integrated Retail Solutions, and Content Management Platforms.
+- 🛠️ **Projects:** IT Asset Management System, Analytics-Integrated Retail Solutions, Portfolio and Task Management Platforms.
 
 I enjoy developing practical applications, solving technical problems, and continuously expanding my knowledge of software technologies.
 
